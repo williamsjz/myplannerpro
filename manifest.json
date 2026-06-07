@@ -10,7 +10,8 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "/MyPlannerPro.html",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "theme_color": "#1e40af",
   "background_color": "#020617",
